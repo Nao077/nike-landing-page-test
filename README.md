@@ -15,6 +15,9 @@ Cette landing page présente une interface claire et attractive composée de plu
 - 📬 Formulaire de souscription
 - 🧭 Navigation & Footer
 
+## Aperçu en image
+> 🔁 *Ces images sont hébergées dans les Issues GitHub via glisser-déposer dans le dossier 'website preview'.*
+
 ## 🛠️ Technologies utilisées
 
 - [React.js](https://reactjs.org/)
